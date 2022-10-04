@@ -1,0 +1,38 @@
+Name	Shape Points	Body image path	isSupporter
+Ally Brooke	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/allybrookesupporter.png	TRUE
+Anne Hegarty	-3.15f,1.91f, -3.14f,-1.96f, 3.11f,-1.99f, 3.13f,1.92f	data/annehegartyhater.png	FALSE
+Anne Mcelvoy	-1.98f,1.92f, -1.98f,-1.95f, 1.98f,-1.98f, 1.99f,1.94f	data/annemcelvoyhater.png	FALSE
+AOC 	-1.59f,1.94f, -1.59f,-1.97f, 1.57f,-1.98f, 1.57f,1.94f	data/aocsupporter.png	TRUE
+Billie Eilish	-2.65f,1.95f, -2.65f,-1.94f, 2.62f,-1.98f, 2.65f,1.97f	data/billieeilishsupporter.png	TRUE
+Blythe	-1.6f,1.97f, -1.59f,-1.96f, 1.58f,-1.96f, 1.58f,1.98f	data/blythesupporter.png	TRUE
+BRP	-2.98f,1.98f, -2.98f,-1.97f, 2.94f,-1.97f, 2.96f,1.99f	data/bernadetteromulopuyatsupporter.png	TRUE
+Coronavirus	-2.61f,1.99f, -2.61f,-1.98f, 1.92f,-1.99f, 1.92f,1.97f	data/coronavirushater.png	FALSE
+Donald Trump	-1.57f,1.87f, -1.56f,-1.96f, 1.55f,-1.98f, 1.55f,1.86f	data/donaldtrumphater.png	FALSE
+Dontai Leonard	-2.0f,1.96f, -2.0f,-1.98f, 1.98f,-1.95f, 1.98f,1.96f	data/dontaileonardsupporter.png	TRUE
+Francine Diaz	-1.99f,1.98f,-2.0f,-1.93f, 1.95f,-1.98f, 1.96f,1.99f	data/francinediazsupporter.png	TRUE
+Gabriel Boric	-2.04f,1.98f, -2.01f,-1.96f, 2.0f,-1.97f, 2.0f,1.99f	data/gabrielboricsupporter.png	TRUE
+Halsey	-1.32f,1.95f, -1.3f,-1.98f, 1.27f,-1.96f, 1.29f,1.98f	data/halseysupporter.png	TRUE
+Hoyeon Jung	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/hoyeonjungsupporter.png	TRUE
+Imelda Schweighart	-2.96f,1.95f, -2.98f,-1.98f, 2.93f,-1.97f, 2.98f,1.96f	data/imeldaschweigharthater.png	FALSE
+Jake Paul	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/jakepaulhater.png	FALSE
+Jim Bakker	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/jimbakkerhater.png	FALSE
+Kaory Desole	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/kaorydesolesupporter.png	TRUE
+Keemstar	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/keemstarhater.png	FALSE
+Kim Jong Un	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/kimjongunhater.png	FALSE
+Lorde	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/lordesupporter.png	TRUE
+Luna Maya	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/lunamayasupporter.png	TRUE
+Maia Puyat	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/maiapuyatsupporter.png	TRUE
+Matthias Matussek	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/matthiasmatussekhater.png	FALSE
+Niana Guerro	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/nianaguerrosupporter.png	TRUE
+Nicole Leano	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/nicoleleanosupporter.png	TRUE
+Oli London	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/olilondonhater.png	FALSE
+Paul Joseph Watson	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/pjwhater.png	FALSE
+Ranz Kyle	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/ranzkylesupporter.png	TRUE
+Sabrina Carpenter	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/sabrinacarpentersupporter.png	TRUE
+Steven Anderson	-1.41f,1.97f, -1.43f,-1.97f, 1.43f,-1.98f, 1.43f,1.96f	data/stevenandersonhater.png	FALSE
+Thazmin and Jhazmin	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/thazminjhazminsupporters.png	TRUE
+Tom Bennett	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/tombennetthater.png	FALSE
+Twomad	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/twomadhater.png	FALSE
+Vaush	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/vaushhater.png	FALSE
+Zarah Sultana	-1.5f,1.97f, -1.51f,-1.97f, 1.48f,-1.97f, 1.49f,1.98f	data/zarahsultanasupporter.png	TRUE
+Zara Larsson	0.27f,-1.99f, -1.0f,-1.98f, -1.04f,1.95f, 1.04f,1.95f, 1.03f,-1.99f	data/zaralarssonsupporter.png	TRUE
