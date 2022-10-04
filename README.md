@@ -18,7 +18,7 @@ During the second level, Sunmi moves across the field of view with a net placed 
 
 During the third level, Sunmi does not appear. Rather, there are three stationary guns mounted on a wall that shoot projectiles on the player's request. As the haters and supporters fall from the sky, the projectiles must hit the haters. Just as in the first level, the score will increment by 100 if the projectile hits a hater and decrement by 100 if it hits a supporter. If the score falls below 0, the player will have failed the level and will need to restart the level.
 
-## The intrinsic value of this game and it's relevance to my wider computer science aspirations
+## The intrinsic value of this game and its relevance to my wider computer science aspirations
 
 This game allowed me to raise awareness of a critical and under - discussed global issue - the bullying and mistreatment of K-pop fans in society. Part of the reason why I have chosen to study computer science is that being part of the K-pop community but also identifying as male, I have learned by reading what my fellow fans have posted online about the dangers that its majority non-male and minor fanbase suffer from and fear, such as cyberbullying and sexual predators. I hope to use the power of code to help make the internet a safer place for everyone.
 
