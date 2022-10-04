@@ -4,7 +4,7 @@ During term two of my first year computer science studies at City, University of
 
 ## Brief game description
 
-My idea for a game was very original and I incorporated my love of K-pop (South Korean pop music) into the task. The game was divided up into three unique levels. Each level consisted of public figures who hate K-pop (haters) and public figures who like K-pop (supporters) falling from the sky out of an imaginary helicopter that in the game plot is located outside the field of view.
+My idea for a game was very original and I incorporated my love of K-pop (South Korean pop music) into the task. The game was divided up into three unique levels. Each level consisted of public figures who hate K-pop (haters) and public figures who like K-pop (supporters) falling from the sky out of two imaginary helicopters (one for supporters one for haters) that in the game plot is located outside the field of view.
 
 ## Level One
 
